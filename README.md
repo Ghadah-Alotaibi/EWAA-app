@@ -11,7 +11,7 @@ Is an android mobile application that provides a platform to increase awareness 
 
 # 🖥️ Technology:
 
-**Ewaa application will be programmed using:** <br/>
+**EWAA application will be programmed using:** <br/>
 1- Dart programming language and flutter framework.<br/>
 2- Firebase Database.<br/>
-3- Python for recommander system<br/>
+3- Python for recommander system.<br/>
